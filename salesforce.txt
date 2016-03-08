@@ -1,0 +1,9 @@
+http://salesforce.stackexchange.com/questions/12869/using-the-summer-2013-metadata-api-v28-0-as-a-web-reference-in-visual-studio
+http://www.chiragmehta.info/chirag/2011/05/16/field-datatype-mapping-between-oraclesql-server-and-salesforce/
+http://www.salesforce.com/us/developer/docs/api/Content/sforce_api_calls_describeglobal.htm#topic-title
+http://technet.microsoft.com/en-us/library/ms135956.aspx
+http://blogs.msdn.com/b/mattm/archive/2009/08/03/looking-up-ssis-hresult-comexception-errorcode.aspx
+http://blogs.msdn.com/b/mattm/archive/2009/08/03/debugging-a-comexception-during-package-generation.aspx
+http://technet.microsoft.com/en-us/library/ms135946.aspx
+http://sqlsolace.blogspot.co.uk/2010/04/more-ssis-obscurity-ssis-error.html
+http://technet.microsoft.com/en-us/library/ms135932.aspx
